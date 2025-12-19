@@ -65,6 +65,9 @@
       "allow": [],
       "profanitySureness": 2
     },
+    "write-good": {
+      "severity": "warning"
+    },
     "period-in-list-item": false,
     "no-mixed-full-width-half-width-spaces": false,
     "@textlint-rule/pattern": {
