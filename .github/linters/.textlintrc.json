@@ -60,6 +60,11 @@
       "severity": "warning",
       "skip": ["Link"]
     },
+    "alex": {
+      "severity": "warning",
+      "allow": [],
+      "profanitySureness": 2
+    },
     "period-in-list-item": false,
     "no-mixed-full-width-half-width-spaces": false,
     "@textlint-rule/pattern": {
