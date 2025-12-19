@@ -50,11 +50,15 @@
       "severity": "warning"
     },
     "spelling": {
-            "severity": "warning",
-            "language": "en",
-            "skipPatterns": ["JavaScript"],
-            "wordDefinitionRegexp": "/[\\w']+/g",
-            "suggestCorrections": true
+      "severity": "warning",
+      "language": "en",
+      "skipPatterns": ["JavaScript"],
+      "wordDefinitionRegexp": "/[\\w']+/g",
+      "suggestCorrections": true
+    },
+    "stop-words": {
+      "severity": "warning",
+      "skip": ["Link"]
     },
     "period-in-list-item": false,
     "no-mixed-full-width-half-width-spaces": false,
