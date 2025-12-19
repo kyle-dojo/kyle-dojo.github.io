@@ -49,6 +49,12 @@
     "diacritics": {
       "severity": "warning"
     },
+    "spelling": {
+            "language": "en",
+            "skipPatterns": ["JavaScript"],
+            "wordDefinitionRegexp": "/[\\w']+/g",
+            "suggestCorrections": true
+    },
     "period-in-list-item": false,
     "no-mixed-full-width-half-width-spaces": false,
     "@textlint-rule/pattern": {
