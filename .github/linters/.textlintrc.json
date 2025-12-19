@@ -50,6 +50,7 @@
       "severity": "warning"
     },
     "spelling": {
+            "severity": "warning",
             "language": "en",
             "skipPatterns": ["JavaScript"],
             "wordDefinitionRegexp": "/[\\w']+/g",
