@@ -4,13 +4,14 @@
 
   {%- assign data = site.data.sections[page.sections_key] -%}
 
-  {%- assign raw_title = page.mantra
-    | default: page.title
-    | default: data.mantra
+  {%- assign raw_title = default: page.title
+    | default: data.title
     | default: site.title -%}
 
-  {%- assign raw_desc = page.description
+  {%- assign raw_desc = data.meta
     | default: data.description
+    | default: page.meta
+    | default: page.description
     | default: page.excerpt
     | default: site.description
     | default: site.title -%}
@@ -127,5 +128,9 @@
     <script type="application/ld+json">
       {{ article_json_ld | strip }}
     </script>
+  {%- endif -%}
+
+  {%- if site.google_analytics_id -%}
+    {%- include analytics.html -%}
   {%- endif -%}
 </head>

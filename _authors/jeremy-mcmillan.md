@@ -1,9 +1,9 @@
 ---
 layout: threshold
 sections_key: author
-mantra: Trust is money.
-mantra_mark: Trust
-description: null
+title: Trust is money.
+title_mark: Trust
+meta: null
 name: Jeremy McMillan
 active: true
 join_date: 2021-01-01

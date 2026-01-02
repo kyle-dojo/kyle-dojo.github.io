@@ -31,10 +31,10 @@ Share who you are and what you are practicing by shipping both an author card an
    ---
    layout: threshold
    sections_key: author
-   name: Jane Doe
+   name: Alex Doe
    description: Short bio sentence.
-   mantra: "What you repeat, you become"
-   mantra_mark: Repeat
+   title: "What you repeat, you become"
+   title_mark: Repeat
    active: true
    join_date: 2025-01-01
    program_level: -8
@@ -77,6 +77,17 @@ Share who you are and what you are practicing by shipping both an author card an
 
    - Keep the tone reflective, practice-oriented, and Markdown-first.
 3. Commit and push; GitHub Pages will render your author card and publish your Insight on the next build.
+
+### Preview in Codespaces
+
+Run the site directly in your Codespace:
+
+```bash
+bundle install
+bundle exec jekyll serve --host 0.0.0.0 --port 4000 --livereload
+```
+
+- Forward port 4000 in the Ports tab and open it in the browser to view the site.
 
 ### Local preview (optional)
 

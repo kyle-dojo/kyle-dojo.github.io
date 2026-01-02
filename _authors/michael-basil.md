@@ -1,9 +1,9 @@
 ---
 layout: threshold
 sections_key: author
-mantra: "State before Strategy"
-mantra_mark: "State"
-description: Exploring how people and systems find direction under pressure across technology, leadership, and human dynamics.
+title: "Shift State, Then Strategize"
+title_mark: "Shift State"
+meta: Helping capable professionals think clearly and feel more centered during disruption, transition, and high-stakes change.
 name: Michael Basil
 active: true
 join_date: 2019-01-01
@@ -15,23 +15,39 @@ leadership_designations:
 emoji_signature: ⛩️🌿
 custom_url: https://michael.basil.one
 about: |
-  ### Technology, Language, and Leadership
-  
-  I never expected taming parrots and navigating soccer scrums to prepare me for work in technology transformation and human systems. Looking back, it makes perfect sense.
-  
-  Growing up in my mom’s parrot shop, I learned to sense tension, trust, and edge-states by calming unruly macaws through presence rather than force. On the soccer pitch, I learned how systems stay coherent or fall apart based on rhythm, position, and shared direction.
-  
-  With a computer engineering degree from the University of Illinois, I carried that pattern awareness into digital identity, secure DevOps, enterprise platforms, and organizational transformation. Over time, a consistent pattern emerged: the hardest problems in technology and leadership are rarely technical. They arise when the language shaping decisions, roles, and relationships loses coherence under pressure.
-  
-  Mindset Dojo emerged from this inquiry as an open-source practice-ground exploring the language beneath our conversations. It is a place to study how people and systems break, adapt, and realign when the stakes are high.
-  
-  Today, I work with individuals and teams navigating moments of transition, ambiguity, or acceleration. The work often begins not with answers, but with orienting toward a clearer future state and restoring shared direction while operating in the present.
-  
+  ### Orientation Under Pressure
+
+  I work with capable people and teams who find themselves in moments where the old playbooks stop working — a role ends, a direction shifts, or the stakes rise faster than clarity.
+
+  My work is less about advice or optimization and more about helping people **shift state first**, so they can think clearly and act from principle when pressure is on.
+
+  When state shifts, strategy becomes possible.
+
+  Over time — across technology transformation, secure delivery, leadership, and organizational change — one pattern has repeated: the hardest challenges are rarely technical. They emerge when language, roles, and decision-making lose coherence under pressure.
+
+  In organizational settings, this shows up as stalled adoption, fragmented ownership, and initiatives that never quite gain traction — not because the strategy is wrong, but because the conditions for alignment and trust haven’t been established.
+
+  Mindset Dojo grew out of this inquiry as a principles-first practice-ground focused on the language and stance beneath our conversations — where direction, trust, and momentum are quietly formed or lost.
+
+  ### How I Came to This Work
+
+  I didn’t arrive here through theory alone.
+
+  Growing up around animals and competitive team environments taught me early how tension, rhythm, and presence shape outcomes more reliably than force. Later, as a computer engineer working in large-scale systems and leadership contexts, I saw the same dynamics play out in human and organizational systems.
+
+  Over time, I became interested less in *what* decisions were being made and more in **the conditions under which better decisions become possible** — especially during disruption, transition, or sustained pressure.
+
+  That question continues to guide my work.
+
   ### Working Together
-  
-  From time to time, I work one-on-one or with small groups who find themselves at an inflection point. These conversations are not about quick fixes. They are about slowing down enough to surface what is shaping the system, clarify direction, and move forward with coherence.
-  
-  If that feels relevant, you are welcome to reach out and begin a conversation.
+
+  From time to time, I work one-on-one or with small groups who are at an inflection point — professionally, organizationally, or personally.
+
+  These conversations are not about quick fixes or certainty.  
+
+  They are about slowing down enough to restore orientation, clarify what is actually at stake, and move forward with greater coherence.
+
+  If this feels relevant to where you are, you’re welcome to reach out.
   
   ⛩️🌿
   

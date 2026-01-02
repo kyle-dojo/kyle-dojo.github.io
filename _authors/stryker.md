@@ -2,9 +2,9 @@
 layout: threshold
 sections_key: author
 name: Stryker
-description: Growing algae for shrimp and parsley for butterflies in Baltimore, MD.
-mantra: "I ask the stupid questions so you don't have to."
-mantra_mark: ask the stupid questions
+meta: Growing algae for shrimp and parsley for butterflies in Baltimore, MD.
+title: "I ask the stupid questions so you don't have to."
+title_mark: ask the stupid questions
 active: true
 join_date: 2025-12-12
 program_level: -8
