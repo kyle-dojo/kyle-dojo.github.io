@@ -31,7 +31,7 @@ I paused tutoring. I paused my internship. I stopped forcing output while the sy
 
 Here’s the Insight I’m keeping:
 
-### Rest isn’t the opposite of discipline.
+### Rest isn’t the opposite of discipline
 
 It’s the thing that makes discipline sustainable.
 
