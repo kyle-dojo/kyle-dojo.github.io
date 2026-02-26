@@ -37,11 +37,11 @@ It’s the thing that makes discipline sustainable.
 
 I used to treat relaxation as “procrastination with better PR.” I felt guilty every time I stopped, because there was always more to do. But energy doesn’t work like a spreadsheet.
 
-In FEBI terms, I was overusing “get it done” patterns and starving the part of me that heals through *connection and play.* Ginny Whitelaw describes the Collaborator as a pattern you can literally “swing into”—rock, sway, laugh—until you unclog and move again. 
+In FEBI terms, I was overusing “get it done” patterns and starving the part of me that heals through *connection and play.* Ginny Whitelaw describes the Collaborator as a pattern you can literally “swing into”—rock, sway, laugh—until you unclog and move again.
 
-And the body isn’t just along for the ride. The body is the steering wheel. “Movement can change us on the inside,” and working with the body is how new paths get built when old habits keep pulling us back. 
+And the body isn’t just along for the ride. The body is the steering wheel. “Movement can change us on the inside,” and working with the body is how new paths get built when old habits keep pulling us back.
 
-Koichi Tohei puts one of the core Ki principles bluntly: **Relax Completely**—not as a luxury, but as a foundation for mind-body coordination. 
+Koichi Tohei puts one of the core Ki principles bluntly: **Relax Completely**—not as a luxury, but as a foundation for mind-body coordination.
 
 ### My new container (simple, non-negotiable)
 
