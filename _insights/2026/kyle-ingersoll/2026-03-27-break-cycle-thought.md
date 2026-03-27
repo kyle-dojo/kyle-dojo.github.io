@@ -41,7 +41,7 @@ But also—no reality.
 
 One day, I noticed something unsettling.
 
-Nothing I built in that space ever *existed*.
+Nothing I built inside that space ever *existed*.
 
 It only evolved.
 
