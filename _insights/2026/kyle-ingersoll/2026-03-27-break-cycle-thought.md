@@ -75,7 +75,7 @@ Not better planning.
 
 A **consequence boundary**.
 
-A threshold where something must leave the mind and enter the world—
+A Threshold where something must leave the mind and enter the world—
 and the world is allowed to respond.
 
 ---
@@ -153,7 +153,7 @@ It was a **consequence problem**.
 
 ---
 
-My Sensei set a simple threshold:
+My Sensei set a simple Threshold:
 
 Sit for 30 minutes a day.
 
@@ -179,7 +179,7 @@ Another question emerged:
 
 ---
 
-We talk about thresholds like they are walls.
+We talk about Thresholds like they are walls.
 
 But in practice, they feel more like gradients.
 
