@@ -106,7 +106,7 @@ But real.
 
 ---
 
-### Koan
+### First Koan
 
 > If the roots are not growing where you stand…
 > what will make them grow somewhere else?
@@ -149,7 +149,7 @@ But:
 
 ---
 
-### Koan
+### Second Koan
 
 > When you no longer need the door…
 > is that when you are finally able to walk through it?
