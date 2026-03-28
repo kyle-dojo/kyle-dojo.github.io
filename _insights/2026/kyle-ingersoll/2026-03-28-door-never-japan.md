@@ -106,7 +106,7 @@ But real.
 
 ---
 
-### Koan:
+### Koan
 
 > If the roots are not growing where you stand…
 > what will make them grow somewhere else?
@@ -149,7 +149,7 @@ But:
 
 ---
 
-### Koan:
+### Koan
 
 > When you no longer need the door…
 > is that when you are finally able to walk through it?
@@ -180,7 +180,7 @@ If I can… then I already am.
 
 ---
 
-### Final Koan:
+### Final Koan
 
 > If your life where you stand became deeply rooted, connected, and alive…
 > where, exactly, would you need to go?
