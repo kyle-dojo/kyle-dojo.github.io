@@ -17,7 +17,11 @@ A student entered the Dojo carrying a heavy ring of keys that didn’t belong to
 
 “My father is a good man,” the student said. “But he spent twenty years in the **Iron Palace**, dehumanizing men for a pension. He would ‘joke’ about the hammer coming down on me. My mother stood between us, but as a child, I didn't see a joke. I saw a threat. I took him at his word.”
 
+<!-- textlint-disable terminology -->
+
 He felt the weight of his own vulnerability—the Autistic literalism that turned a father’s jest into a predator’s shadow.
+
+<!-- textlint-enable -->
 
 “I spent my life trying to stay small enough to be protected, or quiet enough to be safe. I looked to Cybersecurity because I wanted to finally be the one holding the shield—to be the protector instead of the one hiding behind my mother.”
 
