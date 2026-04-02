@@ -17,18 +17,18 @@ A student entered the Dojo carrying a heavy ring of keys that didn’t belong to
 
 “My father is a good man,” the student said. “But he spent twenty years in the **Iron Palace**, dehumanizing men for a pension. He would ‘joke’ about the hammer coming down on me. My mother stood between us, but as a child, I didn't see a joke. I saw a threat. I took him at his word.”
 
-He felt the weight of his own vulnerability—the Autistic literalism that turned a father’s jest into a predator’s shadow. 
+He felt the weight of his own vulnerability—the Autistic literalism that turned a father’s jest into a predator’s shadow.
 
 “I spent my life trying to stay small enough to be protected, or quiet enough to be safe. I looked to Cybersecurity because I wanted to finally be the one holding the shield—to be the protector instead of the one hiding behind my mother.”
 
-He was vibrating with a cold, paralytic friction. 
+He was vibrating with a cold, paralytic friction.
 
-One side was the **External Compliant**: the mask of the "good child" used to avoid the hammer. 
+One side was the **External Compliant**: the mask of the "good child" used to avoid the hammer.
 The other side was the **Internal Rebel**: the secret fire that hated the bars and the "jokes" alike.
 
 “I am a prisoner of my own safety,” he confessed. “If I rebel, I am crushed. If I comply, I am erased. I am stuck between being a dog or a martyr.”
 
-The Sensei set a bowl of water between them. 
+The Sensei set a bowl of water between them.
 
 “You are trying to solve a puzzle that was designed to break you,” the Sensei said. “You are trying to decide which side of the bars is safer. But as long as you are looking at the bars, you are giving the Iron Palace your One Point.”
 
