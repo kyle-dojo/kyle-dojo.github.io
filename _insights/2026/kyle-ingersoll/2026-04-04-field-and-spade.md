@@ -29,11 +29,11 @@ The traveler grew silent. The wind blew cold across the empty field. Without the
 
 "If the City is just stone," the traveler asked, "why do you bother to dig?"
 
-The monk stopped and handed the traveler a spare spade. 
+The monk stopped and handed the traveler a spare spade.
 
 "Because the next root is right here," the monk said. "And the ground doesn't care about your cloak."
 
-The traveler stood still for a long time. Then, he unbuckled the purple silk and let it fall into the mud. He felt the cold on his skin, and for the first time in years, he felt the true lightness of his own bones. 
+The traveler stood still for a long time. Then, he unbuckled the purple silk and let it fall into the mud. He felt the cold on his skin, and for the first time in years, he felt the true lightness of his own bones.
 
 He didn't look at the horizon. He didn't think about the City. He simply stepped into the mud, gripped the iron, and felt the sharp, clean truth of the spade meeting the wood.
 
