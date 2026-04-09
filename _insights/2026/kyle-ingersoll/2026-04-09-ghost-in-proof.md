@@ -25,7 +25,7 @@ We’ve been told for decades that proprietary code is a corporate "asset." But 
 
 ### **📐 2\. The Gödel Strike: Syntax vs. Semantics**
 
-Jeremy reminded me of the divide between **Syntax ($\\vdash$)** and **Semantics ($\\models$)**. Gödel proved we can never fully capture the Territory in the Map. To understand why my original vision was incomplete, we have to look at the load-bearing beams of formal logic: **Gödel’s Incompleteness Theorems**.
+Jeremy reminded me of the divide between **Syntax (\vdash)** and **Semantics ($\\models$)**. Gödel proved we can never fully capture the Territory in the Map. To understand why my original vision was incomplete, we have to look at the load-bearing beams of formal logic: **Gödel’s Incompleteness Theorems**.
 
 In 1931, Kurt Gödel shattered the dream of a "Complete" mathematical universe. He proved that in any consistent formal system complex enough to do basic arithmetic, there will always be statements that are **true** (Semantics/$\\models$) but **unprovable** (Syntax/$\\vdash$) within that system.
 
