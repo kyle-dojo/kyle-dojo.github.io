@@ -19,7 +19,7 @@ But a true "Strike of the Anvil" requires a second hit. After sharing my realiza
 
 ### ---
 
-**🏗️ 1\. Code as Asbestos: The 1,000x Liability**
+### **🏗️ 1\. Code as Asbestos: The 1,000x Liability**
 
 We’ve been told for decades that proprietary code is a corporate "asset." But as Cory Doctorow has highlighted, we are actually drowning in **Asbestos Code.** Proprietary software has filled our digital world with toxic, unfixable junk. It was installed for convenience, but it has become a massive liability because we do not own the "Map." When we live inside code we aren't allowed to see, audit, or repair, we are living inside a digital superfund site. We have traded our sovereignty for a "black box" that we are forced to trust but cannot verify. This is the "Garrison Mindset" at its most lethal: a world where we are all liabilities waiting to happen.
 
