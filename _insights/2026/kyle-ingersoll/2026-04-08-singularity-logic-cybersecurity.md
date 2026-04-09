@@ -3,7 +3,7 @@ layout: insight
 title: "The Singularity of Logic: Why Cybersecurity is a Solvable Math Problem"
 title_mark: "Solvable"  
 published_date: 2026-04-08
-refactored_date: 2026-04-08
+refactored_date: 2026-04-09
 authors:  
   - kyle-ingersoll
 forms:
@@ -25,7 +25,7 @@ In a world of infinite scale, the most efficient way to "store" the truth isn't 
 
 ### **⚡ 2\. The Singularity: Logic as the Ultimate Storage**
 
-Think of the most efficient storage possible. It isn’t a high-density drive; it is the **Gregory-Leibniz series** for \\pi. You don't need to store a trillion digits of \\pi (Massive Space); you only need one line of logic (Infinite Energy).  
+Think of the most efficient storage possible. It isn’t a high-density drive; it is the **Gregory-Leibniz series** for π. You don't need to store a trillion digits of π (Massive Space); you only need one line of logic (Infinite Energy).  
 This is the **Singularity of Logic**.  
 As we move toward higher performance, we must stop managing **Bits** and start managing **Truth**. This is where the **Curry-Howard Correspondence** becomes the ultimate "Root of Trust." It is an identity that suggests:
 
@@ -48,5 +48,6 @@ I call this **Fractal Zero Trust**. The proof is recursive. The "Root of Trust" 
 I am still a student, but I am choosing to move away from the "Garrison Mindset." The industry is currently full of "Medics" patching wounds in leaky systems. We need **Systems Formalists**.  
 We need to stop asking, *"How do I fix this computer?"* and start asking, *"How do I prove this system must exist in this state?"*  
 Cybersecurity is not an arms race. It is a solvable math problem. And the solution is an elegant, optimal, and perfect fractal of logic.  
-**The era of the Patch is over. The era of the Proof has begun.**  
-\#Cybersecurity \#ComputerScience \#STEMStudents \#ZeroTrust \#FormalMethods \#SoftwareEngineering \#CurryHoward \#OpenSource
+**The era of the Patch is over. The era of the Proof has begun.**
+
+[Sequel Insight Article](../ghost-in-proof/)
