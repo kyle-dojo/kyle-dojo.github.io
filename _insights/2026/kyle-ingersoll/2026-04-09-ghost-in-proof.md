@@ -19,24 +19,24 @@ But a true "Strike of the Anvil" requires a second hit. After sharing my realiza
 
 ### ---
 
-**🏗️ 1\. Code as Asbestos: The 1,000x Liability**
+**🏗️ 1 \. Code as Asbestos: The 1,000x Liability**
 
 We’ve been told for decades that proprietary code is a corporate "asset." But as Cory Doctorow has highlighted, we are actually drowning in **Asbestos Code.** Proprietary software has filled our digital world with toxic, unfixable junk. It was installed for convenience, but it has become a massive liability because we do not own the "Map." When we live inside code we aren't allowed to see, audit, or repair, we are living inside a digital superfund site. We have traded our sovereignty for a "black box" that we are forced to trust but cannot verify. This is the "Garrison Mindset" at its most lethal: a world where we are all liabilities waiting to happen.
 
 ### **📐 2\. The Gödel Strike: Syntax vs. Semantics**
 
-Jeremy reminded me of the divide between **Syntax (\vdash)** and **Semantics ($\\models$)**. Gödel proved we can never fully capture the Territory in the Map. To understand why my original vision was incomplete, we have to look at the load-bearing beams of formal logic: **Gödel’s Incompleteness Theorems**.
+Jeremy reminded me of the divide between **Syntax (⊢)** and **Semantics (⊧)**. Gödel proved we can never fully capture the Territory in the Map. To understand why my original vision was incomplete, we have to look at the load-bearing beams of formal logic: **Gödel’s Incompleteness Theorems**.
 
-In 1931, Kurt Gödel shattered the dream of a "Complete" mathematical universe. He proved that in any consistent formal system complex enough to do basic arithmetic, there will always be statements that are **true** (Semantics/$\\models$) but **unprovable** (Syntax/$\\vdash$) within that system.
+In 1931, Kurt Gödel shattered the dream of a "Complete" mathematical universe. He proved that in any consistent formal system complex enough to do basic arithmetic, there will always be statements that are **true** (Semantics/⊧) but **unprovable** (Syntax/⊢) within that system.
 
 This introduces a fundamental asymmetry in the Forge:
 
-* **Syntax is the "Map" ($\\vdash$):** The proof, the code, the rigid internal rules. It is the world of the machine.  
-* **Semantics is the "Territory" ($\\models$):** The hardware, the user, the messy human condition. It is the world of reality.
+* **Syntax is the "Map" (⊢):** The proof, the code, the rigid internal rules. It is the world of the machine.  
+* **Semantics is the "Territory" (⊧):** The hardware, the user, the messy human condition. It is the world of reality.
 
 Gödel proves that a machine can be **Sound**, but it can never be **Complete**.
 
-* **Soundness (The Anvil):** If the machine proves a state is secure ($\\vdash$), then it is actually secure in reality ($\\models$). We can build foundations that do not lie.  
+* **Soundness (The Anvil):** If the machine proves a state is secure (⊢), then it is actually secure in reality (⊧). We can build foundations that do not lie.  
 * **Completeness (The Mirage):** The hope that if a state is secure in reality, the machine can eventually prove it.
 
 If we try to force "Completeness," we don't get a perfect world—we get the **"Hextech" tragedy** of *Arcane*. We try to grind the messy, vibrant **"Blood"** of humanity—our agency, our unpredictability, and our spirit—into the rigid, unyielding **"Bone"** of a machine. We mistake the proof for the person. There will always be a "Ghost" in the machine—truths that exist in the territory of human experience that the map of our code simply cannot reach.

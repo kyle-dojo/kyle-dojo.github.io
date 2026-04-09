@@ -25,7 +25,7 @@ In a world of infinite scale, the most efficient way to "store" the truth isn't 
 
 ### **⚡ 2\. The Singularity: Logic as the Ultimate Storage**
 
-Think of the most efficient storage possible. It isn’t a high-density drive; it is the **Gregory-Leibniz series** for \\pi. You don't need to store a trillion digits of \\pi (Massive Space); you only need one line of logic (Infinite Energy).  
+Think of the most efficient storage possible. It isn’t a high-density drive; it is the **Gregory-Leibniz series** for π. You don't need to store a trillion digits of π (Massive Space); you only need one line of logic (Infinite Energy).  
 This is the **Singularity of Logic**.  
 As we move toward higher performance, we must stop managing **Bits** and start managing **Truth**. This is where the **Curry-Howard Correspondence** becomes the ultimate "Root of Trust." It is an identity that suggests:
 
