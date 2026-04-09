@@ -3,7 +3,7 @@ layout: insight
 title: "The Singularity of Logic: Why Cybersecurity is a Solvable Math Problem"
 title_mark: "Solvable"  
 published_date: 2026-04-08
-refactored_date: 2026-04-08
+refactored_date: 2026-04-09
 authors:  
   - kyle-ingersoll
 forms:
