@@ -1,4 +1,17 @@
-# **⛩️ The Singularity of Logic: Why Cybersecurity is a Solvable Math Problem**
+---  
+layout: insight  
+title: "The Singularity of Logic: Why Cybersecurity is a Solvable Math Problem"
+title_mark: "Solvable"  
+published_date: 2026-04-08
+refactored_date: 2026-04-08
+authors:  
+  - kyle-ingersoll
+forms:
+  - three-question-reflection
+  - martial-attitude
+  - stance  
+excerpt: "By moving from a 'Garrison Mindset' of endless patches to a **Fractal Zero Trust** model based on the Curry-Howard Correspondence, we can collapse the traditional CIA triad into a single, unhackable mathematical property: **Formal Correctness**."
+---
 
 I am a Computer Science student currently at Indiana University South Bend. My background isn’t in decades of corporate boardrooms; it’s in the immediate, practical triage of Helpdesk support and volunteering as a Trusted Committer for the Mindset Dojo open-source project. I’ve spent my time imaging Chromebooks, troubleshooting BIOS configurations, and auditing DNS settings to prevent domain hijacking.  
 But even at this stage of my journey—moving between the "Iron" of hardware repair and the logic of CI/CD pipelines—I’ve realized that our industry’s approach to security is fundamentally a "Spook." We are trying to solve a **Physics** problem with **Policy**.  
