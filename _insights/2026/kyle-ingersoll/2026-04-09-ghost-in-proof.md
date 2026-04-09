@@ -79,3 +79,5 @@ I’ll admit: my first instinct was to seek **Superiority \= Safety.** But I now
 True safety comes from a **Sound** foundation that is **Open and Free.** We build perfect logic not to replace human agency, but to provide a safe harbor for it. We accept that the "Analog Hole" exists because we accept that the human is more important than the machine.
 
 **The Soil is the Proof. The Forest is Free.**
+
+[Prequel Insight Article](../singularity-logic-cybersecurity/)

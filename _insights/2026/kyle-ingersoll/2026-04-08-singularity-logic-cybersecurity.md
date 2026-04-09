@@ -50,3 +50,5 @@ We need to stop asking, *"How do I fix this computer?"* and start asking, *"How 
 Cybersecurity is not an arms race. It is a solvable math problem. And the solution is an elegant, optimal, and perfect fractal of logic.  
 **The era of the Patch is over. The era of the Proof has begun.**  
 \#Cybersecurity \#ComputerScience \#STEMStudents \#ZeroTrust \#FormalMethods \#SoftwareEngineering \#CurryHoward \#OpenSource
+
+[Sequel Insight Article](../ghost-in-proof/)
