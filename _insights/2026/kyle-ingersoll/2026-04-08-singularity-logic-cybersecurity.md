@@ -48,7 +48,6 @@ I call this **Fractal Zero Trust**. The proof is recursive. The "Root of Trust" 
 I am still a student, but I am choosing to move away from the "Garrison Mindset." The industry is currently full of "Medics" patching wounds in leaky systems. We need **Systems Formalists**.  
 We need to stop asking, *"How do I fix this computer?"* and start asking, *"How do I prove this system must exist in this state?"*  
 Cybersecurity is not an arms race. It is a solvable math problem. And the solution is an elegant, optimal, and perfect fractal of logic.  
-**The era of the Patch is over. The era of the Proof has begun.**  
-\#Cybersecurity \#ComputerScience \#STEMStudents \#ZeroTrust \#FormalMethods \#SoftwareEngineering \#CurryHoward \#OpenSource
+**The era of the Patch is over. The era of the Proof has begun.**
 
 [Sequel Insight Article](../ghost-in-proof/)
