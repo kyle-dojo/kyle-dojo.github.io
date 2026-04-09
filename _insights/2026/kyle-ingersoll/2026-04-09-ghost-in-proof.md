@@ -15,7 +15,7 @@ excerpt: "By aligning the 'Integrity of Code' with the 'Integrity of Ethics,' we
 
 In my first article, I spoke of the **Singularity of Logic**—the moment where Code and Math become one through the Curry-Howard Correspondence. I saw a future where **Fractal Zero Trust** provides the ultimate safety through mathematical certainty.
 
-But a true "Strike of the Anvil" requires a second hit. After sharing my realization with my senpai, Jeremy, and diving into the work of Cory Doctorow and Richard Stallman, I realized my theory had a **Shadow**. I was looking at the "Proof," but I wasn't looking at the **Power.**
+But a true "Strike of the Anvil" requires a second hit. After sharing my realization with my senpai, [Jeremy](../../../authors/jeremy-mcmillan/), and diving into the work of Cory Doctorow and Richard Stallman, I realized my theory had a **Shadow**. I was looking at the "Proof," but I wasn't looking at the **Power.**
 
 ### ---
 
