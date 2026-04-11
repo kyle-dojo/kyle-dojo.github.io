@@ -93,4 +93,4 @@ The path leads away from the corporate towers and toward the **Sovereign Lab** i
 
 **The Soil is the Proof. The Forest is Free. The Chain of Reason is Bootstrapped.**
 
-[Prequel Insight Article](../../../insights/ghost-in-proof/)
+[Prequel Insight Article](../../../ghost-in-proof/)
