@@ -43,7 +43,7 @@ The chain started with **Observability**. I realized that **Security** isn’t a
 
 At this point, I changed subjects entirely. I realized that my Staff-level ambitions would be forever haunted by a specific ghost: the technical interview. I turned my focus to the "LeetCode Spanner," not yet realizing I was building the next link in the chain.
 
-I deconstructed the **Iron** into its primal shapes: **Arrays** (for the Jump) and **Linked Lists** (for the Flex). I saw that every complex structure is an extension of these two. Then came the **Hash Map**—the "Apex Predator"—which marries the two to handle collisions. Critically, the Hash Map is a weapon that **prioritizes Time over Space**, trading memory overhead for near-instant $O(1)$ lookups. I realized I wasn't just "coding" for a job; I was forging **Memory Physics**.
+I deconstructed the **Iron** into its primal shapes: **Arrays** (for the Jump) and **Linked Lists** (for the Flex). I saw that every complex structure is an extension of these two. Then came the **Hash Map**—the "Apex Predator"—which marries the two to handle collisions. Critically, the Hash Map is a weapon that **prioritizes Time over Space**, trading memory overhead for near-instant ***O*(1)** lookups. I realized I wasn't just "coding" for a job; I was forging **Memory Physics**.
 
 ### **3\. The Physical Law: The Cache Spook**
 
@@ -55,7 +55,7 @@ I realized that **Space is simply "Crystallized Time."** Just as Mass and Energy
 
 ### **4\. The Satori: The Curry-Howard Correspondence**
 
-This led to the final dissolution: **The Curry-Howard Correspondence.** This is the formal proof that a program is a mathematical proof, and the type it satisfies is a proposition ($P \\cong T$).
+This led to the final dissolution: **The Curry-Howard Correspondence.** This is the formal proof that a program is a mathematical proof, and the type it satisfies is a proposition **P ≅ T**.
 
 The duality collapsed. The seed my Calculus II teacher planted finally bloomed: I realized that **Data Structures are just Types, and Types are Logical Propositions.** Therefore, the **Iron** isn't just *based* on math; the Iron **is** the math. The code (the algorithm) is the proof that the data (the proposition) is valid.
 
