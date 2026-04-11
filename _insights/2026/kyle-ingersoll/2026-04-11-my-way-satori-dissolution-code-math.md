@@ -73,4 +73,4 @@ The **Iron** has melted. The **Truth** remains.
 
 ---
 
-*This article is a prequel to [The Singularity of Logic: Why Cybersecurity is Actually a Math Problem](../../../singularity-logic-cybersecurity).*
+*This article is a prequel to [The Singularity of Logic: Why Cybersecurity is Actually a Math Problem](../singularity-logic-cybersecurity).*
