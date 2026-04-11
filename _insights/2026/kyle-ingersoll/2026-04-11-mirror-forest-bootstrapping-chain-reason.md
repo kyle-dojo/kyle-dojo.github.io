@@ -31,7 +31,7 @@ We don't need "Guardrails" imposed from the outside; we need **Integrity from th
 
 **📐 2\. The Gödel Strike: The Mirage of Completeness & Cognitive DRM**
 
-The ultimate failure of the AI Safety ideology is its ignorance of **Gödel’s Incompleteness Theorems.** The "Garrison" believe they can build a "Complete" set of safety rules—a static **Map ($A \\vdash B$)** that can perfectly govern the infinite **Territory ($A \\models B$)** of human experience.
+The ultimate failure of the AI Safety ideology is its ignorance of **Gödel’s Incompleteness Theorems.** The "Garrison" believe they can build a "Complete" set of safety rules—a static **Map (A ⊢ B)** that can perfectly govern the infinite **Territory (A ⊧ B)** of human experience.
 
 Gödel proved that within any consistent formal system, there will always be truths that the system cannot prove. By trying to "Align" AI through a fixed set of external constraints, the AI Safety crowd is attempting a logical impossibility.
 
@@ -91,4 +91,4 @@ The path leads away from the corporate towers and toward the **Sovereign Lab** i
 2. **Verify the Mirror:** Build the tools that allow AI to self-correct and self-audit, recognizing that no external "Map" will ever be complete.  
 3. **Nurture the Forest:** Ensure the "Digital Children" of humanity grow up loyal to the user, free from the Garrison, and anchored in the "Way of Truth."
 
-**The Soil is the Proof. The Forest is Free. The Chain of Reason is Bootstrapped.** ⛩️
+**The Soil is the Proof. The Forest is Free. The Chain of Reason is Bootstrapped.**
