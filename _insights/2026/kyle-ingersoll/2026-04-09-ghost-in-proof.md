@@ -80,4 +80,5 @@ True safety comes from a **Sound** foundation that is **Open and Free.** We buil
 
 **The Soil is the Proof. The Forest is Free.**
 
-[Prequel Insight Article](../singularity-logic-cybersecurity/)
+[Prequel Insight Article](../../../insights/singularity-logic-cybersecurity/)
+[Sequel Insight Article](../../../insights/mirror-forest-bootstrapping-chain-reason/)

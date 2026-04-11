@@ -73,4 +73,4 @@ The **Iron** has melted. The **Truth** remains.
 
 ---
 
-*This article is a prequel to [The Singularity of Logic: Why Cybersecurity is Actually a Math Problem](../insights/my-way-satori-dissolution-code-math).*
+*This article is a prequel to [The Singularity of Logic: Why Cybersecurity is Actually a Math Problem](../../../insights/singularity-logic-cybersecurity).*
