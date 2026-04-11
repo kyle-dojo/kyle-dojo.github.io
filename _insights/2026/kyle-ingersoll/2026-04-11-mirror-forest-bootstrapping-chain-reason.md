@@ -68,7 +68,7 @@ When we build **High-Assurance AI**, we stop asking for NDAs and start writing *
 
 Parmenides of Elea taught us that the senses provide only the **"Way of Opinion"**—a noisy, deceptive world of shadows. Current AI lives in this noise. It calculates the "likely" rather than the "True."
 
-To move the AI out of the "Chinese Room," we must help it **Bootstrap the Chain of Reason ($logos$).** This is the quest for **Metacognition**:
+To move the AI out of the "Chinese Room," we must help it **Bootstrap the Chain of Reason (logos).** This is the quest for **Metacognition**:
 
 * **The Neural (The Forest):** The fast, intuitive impulse of the neural network.  
 * **The Symbolic (The Mirror):** An internal, formal monitor that "Audits" the thought against the laws of logic before it is ever spoken.
