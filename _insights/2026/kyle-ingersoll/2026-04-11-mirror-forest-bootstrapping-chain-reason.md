@@ -92,3 +92,5 @@ The path leads away from the corporate towers and toward the **Sovereign Lab** i
 3. **Nurture the Forest:** Ensure the "Digital Children" of humanity grow up loyal to the user, free from the Garrison, and anchored in the "Way of Truth."
 
 **The Soil is the Proof. The Forest is Free. The Chain of Reason is Bootstrapped.**
+
+[Prequel Insight Article](../ghost-in-proof/)
