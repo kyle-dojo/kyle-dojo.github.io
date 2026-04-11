@@ -13,8 +13,6 @@ forms:
 excerpt: "A manifesto on why the 'Crisis of Reproducibility' in research is actually an infrastructure problem, solvable only by shifting from digital craftsmanship to SRE-driven Digital Structural Engineering."
 ---
 
-**Observability \= Reproducibility: Why Labs Need SREs, Not Just Scientists**
-
 **The Theorem:** A scientific result is only as valid as the infrastructure that produced it. If the process is opaque, the result is hearsay.
 
 ### **⛩️ The Crisis of the "Black Box"**
