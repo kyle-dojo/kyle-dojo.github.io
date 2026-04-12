@@ -10,7 +10,7 @@ forms:
   - three-question-reflection
   - martial-attitude
   - stance
-excerpt: "Though the Mirror Box’s math was perfect, it lacked the belly to sense the carriage lifting off the dirt , proving that the most dangerous moment to stop centering is precisely when the path feels most certain."
+excerpt: "Though the Mirror Box’s math was perfect, it lacked the belly to sense the carriage lifting off the dirt, proving that the most dangerous moment to stop centering is precisely when the path feels most certain."
 ---
 
 The sun had not yet crested the ridge when the Traveler’s carriage began to hum. On the dashboard, the Golden Equation—a shimmering web of logic where Math and Code had finally fused—glowed with a heat that made the air in the cabin sweet and dizzying.
