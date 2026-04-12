@@ -50,4 +50,5 @@ We need to stop asking, *"How do I fix this computer?"* and start asking, *"How 
 Cybersecurity is not an arms race. It is a solvable math problem. And the solution is an elegant, optimal, and perfect fractal of logic.  
 **The era of the Patch is over. The era of the Proof has begun.**
 
-[Sequel Insight Article](../ghost-in-proof/)
+[Prequel Insight Article](../insights/my-way-satori-dissolution-code-math/)
+[Sequel Insight Article](../insights/ghost-in-proof/)
